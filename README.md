@@ -8,7 +8,7 @@
 <a href="https://www.facebook.com/kushan.kumuditha.1/" target="_blank">
     <img align="left" alt="Kushan de silva | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/facebook.svg" />
 </a>
-<a href="https://www.linkedin.com/in/kushan-kumuditha-5b343a246/" target="_blank">
+<a href="https://www.linkedin.com/in/kushan-kumuditha-5b343a246/](https://www.linkedin.com/in/kushan-kumuditha-de-silva" target="_blank">
     <img align="left" alt="Kushan's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://www.instagram.com/kush__________________/" target="_blank">
